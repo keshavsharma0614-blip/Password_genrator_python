@@ -8,10 +8,10 @@ Arithmetic Arranger – Python
  The function arithmetic_arranger() takes a list of arithmetic problems and returns a string displaying
  them in a neatly formatted vertical arrangement.
  Example:
-   32      1      45
- + 698    - 2    + 43
------    ---    ----
-  730      -1      88
+   32  |    1 |     45
+ + 698 |  - 2 |   + 43
+-----  |  --- |   ----
+  730  |   -1 |    88
 
  This project reinforced skills in:- String manipulation- Conditional logic- Input validation- Error handling- Formatting output using alignment (rjust)
  KEY FEATURES- Validates input (too many problems, invalid operators, non-digit inputs, max 4 digits)- Neatly arranges problems using alignment and dashes- Optional result output using solve=True
