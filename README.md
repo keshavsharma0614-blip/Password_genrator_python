@@ -9,7 +9,7 @@ Arithmetic Arranger – Python
  them in a neatly formatted vertical arrangement.
  Example:
    32      1      45
-+ 698    - 2    + 43
+ + 698    - 2    + 43
 -----    ---    ----
   730      -1      88
 
